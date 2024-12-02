@@ -1,4 +1,4 @@
-const { assert } = require('assert');
+const assert  = require('assert');
 const calculateTotalDistance = require("./Day1");
 
 describe("Day 1 should calculate total distance", () => {
